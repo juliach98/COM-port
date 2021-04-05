@@ -10,7 +10,7 @@ Server computers may use a serial port as a control console for diagnostics, whi
 
 # Project description
 ## Interface
-<img src="images/interface.jpg" width="500" />
+
 
 Here you can choose avaliable:
 * ports (for example, COM1 or COM2);
