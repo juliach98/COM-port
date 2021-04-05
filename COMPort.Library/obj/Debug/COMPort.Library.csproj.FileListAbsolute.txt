@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\bin\Debug\COMPort.Library.dll
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\bin\Debug\COMPort.Library.pdb
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\obj\Debug\COMPort.Library.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\obj\Debug\COMPort.Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\obj\Debug\COMPort.Library.dll
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\COMPort.Library\obj\Debug\COMPort.Library.pdb

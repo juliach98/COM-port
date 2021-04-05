@@ -1,0 +1,12 @@
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\bin\Debug\Checksum.Library.dll
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\bin\Debug\Checksum.Library.pdb
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\obj\Debug\Checksum.Library.csprojAssemblyReference.cache
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\obj\Debug\Checksum.Library.csproj.CoreCompileInputs.cache
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\obj\Debug\Checksum.Library.dll
+C:\Users\rybac\Desktop\CRV\COMPort\Checksum.Library\obj\Debug\Checksum.Library.pdb
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\bin\Debug\Checksum.Library.dll
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\bin\Debug\Checksum.Library.pdb
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\obj\Debug\Checksum.Library.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\obj\Debug\Checksum.Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\obj\Debug\Checksum.Library.dll
+C:\Users\admin\Desktop\Юля\Новое\ПСРВ\Лабы\COMPort\COMPort\Checksum.Library\obj\Debug\Checksum.Library.pdb
